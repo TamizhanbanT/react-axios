@@ -17,7 +17,7 @@ export default function Axios() {
 
            
         }).catch((err)=>{
-            console.log("somthing went woron try again");
+            console.log("somthing went wrong try again");
         })}
         
      
